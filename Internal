@@ -1,4 +1,4 @@
-UPSTREAM_REPO=https://github.com/BikashHalderNew/Bgtplayer
+UPSTREAM_REPO=https://github.com/sathanxavier1998/Railwaymusic
 UPSTREAM_BRANCH=bikash
 AUTO_DOWNLOADS_CLEAR=False
 API_ID=6620972
